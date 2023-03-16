@@ -1,5 +1,5 @@
 # WorkSchedule
-Deployed link:
+Deployed link:  https://abenezertmengesha.github.io/WorkSchedule/
 
 ## Discription
 A JS app uesd to schedule taskes through out the day.
