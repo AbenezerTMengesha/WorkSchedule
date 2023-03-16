@@ -1,0 +1,81 @@
+* body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1;
+}
+
+.jumbotron {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    background-color: rgb(142, 235, 244);
+    color: #536B78;
+    border-radius: 0;
+    border-bottom: 5px solid gray;
+}
+
+textarea {
+    background: transparent;
+    border: none;
+    resize: none;
+    color: #000000;
+    border-left: 1px solid black;
+    padding: 10px;
+}
+
+.description {
+    white-space: pre-wrap;
+}
+
+.time-block {
+    text-align: center;
+    border-radius: 15px;
+}
+
+.row {
+    white-space: pre-wrap;
+    height: 80px;
+    border-top: 1px solid white;
+}
+
+.hour {
+    border-right: 1px solid #CEE5F2;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.past {
+    background-color: #ACCBE1;
+    color: #666666;
+}
+
+.present {
+    background-color: #7C98B3;
+    color: #666666;
+}
+
+.future {
+    background-color: #ffffff;
+}
+
+.saveBtn {
+    border-left: 1px solid black;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: rgba(99, 112, 129, 0.75);
+    color: white;
+}
+
+.saveBtn i:hover {
+    font-size: 32px;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer
+}
+
+i {
+    transition: all 0.3s ease-in-out;
+}
+
+.custom-width {
+    width: 7vw
+}
